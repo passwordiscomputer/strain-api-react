@@ -1,9 +1,10 @@
 import React from 'react';
+import Strains from './Strains'
 
 function App(){
   return (
     <div>
-      <h1>Hello</h1>
+      <Strains/>
     </div>
   );
 }
